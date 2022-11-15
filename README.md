@@ -23,5 +23,5 @@
 <img src="https://img.icons8.com/color/48/4a90e2/spring-logo.png" alt="Spring" title="Spring" width="50" height="50"/>&nbsp
 <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit 5" title="JUnit 5" width="50" height="50"/>&nbsp
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" title="Matlab" width="50" height="50"/>
-<img src="https://commons.wikimedia.org/wiki/File:ISO_C%2B%2B_Logo.svg" alt="C++" title="C++" width="50" height="50"/> &nbsp and more...
+<img src="https://img.icons8.com/metro/26/000000/c-plus-plus.png" alt="C++" title="C++" width="50" height="50"/> &nbsp and more...
 </div>
