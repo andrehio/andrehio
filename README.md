@@ -1,9 +1,10 @@
 ### Hi there! I'm André Hioki
 
 <div align="right">
-  <a href="https://www.linkedin.com/in/andr%C3%A9-h-339777223/">
-    ![Badge](https://img.shields.io/static/v1?labelColor=blue&label&message=Linkedin&color=blue&style=for-the-badge&logo=Linkedin)
-  </a>
+<a href="https://www.linkedin.com/in/andr%C3%A9-h-339777223/">
+
+![Badge](https://img.shields.io/static/v1?labelColor=blue&label&message=Linkedin&color=blue&style=for-the-badge&logo=Linkedin)
+</a>
 </div>
 
 #### Welcome! Here I share my progress and achievements. Thank you for visiting my profile. See you!
